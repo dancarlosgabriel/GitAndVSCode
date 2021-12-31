@@ -2,4 +2,4 @@
 
 dandreb's GIT tests thru VS Code -- done and it's awesome
 
-(edit from gitgub)
+(edit from gitgub) then locally
